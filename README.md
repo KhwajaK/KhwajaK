@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KhwajaK/KhwajaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
- Hi there 👋
-
 - 📫 How to reach me: <a href='www.linkedin.com/in/khrista-khwaja-a36671261'>LinkedIn</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am currently at Coding Dojo for full stack development. 
