@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: <a href='www.linkedin.com/in/khrista-khwaja-a36671261'>LinkedIn</a>
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/khrista-khwaja/'>LinkedIn</a>
 
 - 😄 Pronouns: She/Her
 
