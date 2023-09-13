@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I am currently at Coding Dojo for full stack development. 
+- ⚡ Fun fact: I am a Coding Dojo Alumni. 
 
 - 📚 Currently learning: 
 
